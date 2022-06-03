@@ -1,4 +1,5 @@
-#Following code will only work on single line string
+#Following code will only work on single line string.
+#Though it does work.Still the procedure is not satisfactory.
 inputStr = "Hello World"
 inputStr = inputStr.lower()
 print(inputStr)
